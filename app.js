@@ -148,7 +148,7 @@ function printWholeBoard() {
     printThirdLine(board)
     
 }
-
+console.log("git")
 
 
 //  X O O
