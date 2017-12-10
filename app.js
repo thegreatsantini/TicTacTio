@@ -123,7 +123,7 @@ function printWholeBoard() {
   printSecondLine(board);
   printThirdLine(board);
 }
-console.log("git");
+console.log("If you can read this than you have passed then you have passed the test");
 
 //  X O O
 //  O   X
